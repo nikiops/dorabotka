@@ -1,0 +1,5 @@
+python-telegram-bot==22.6
+Pillow==12.1.1
+pytesseract==0.3.13
+numpy==2.4.3
+rapidocr_onnxruntime==1.2.3
